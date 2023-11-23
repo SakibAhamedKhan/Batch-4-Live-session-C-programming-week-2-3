@@ -1,0 +1,2 @@
+1 asche = 3 bar
+2 asche = 2 bar
